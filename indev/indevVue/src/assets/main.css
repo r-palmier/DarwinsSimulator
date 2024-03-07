@@ -1,0 +1,25 @@
+@import './base.css';
+body {
+  background-color: #202225 ;
+
+}
+#app {
+
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    margin: 0%;
+    
+  }
+
+  #app {
+
+  }
+}
